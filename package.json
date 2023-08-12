@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe",
+  "version": "0.0.1",
+  "description": "I am creating this because I was bored and I wanted to suffer a little",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tictactoe",
+    "tic-tac-toe",
+    "small_project",
+    "javascript"
+  ],
+  "author": "Chromonic",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
