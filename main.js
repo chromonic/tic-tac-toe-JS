@@ -70,6 +70,7 @@ const checkWinner = (cPlayerCharacter, lBoard) => {
     }
     return allSameCheck(tmpArr)  
   };
+  // from right to left
   const diagonalChecking_RightToLeft = () => {
     let tmpArr = [];
     for (let diagonalIterator = 2; diagonalIterator > -1; diagonalIterator--) {
